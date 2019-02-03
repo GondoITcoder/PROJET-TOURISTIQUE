@@ -1,0 +1,101 @@
+
+.texte_accueil
+{
+	text-align: center;
+	font-size: 35px;
+	color: #fff;
+}
+
+
+
+#slogan
+{
+	margin-top: 10px;
+}
+
+#slogan h1
+{
+	    color: #444;
+	    font-weight: normal;
+}
+
+#slogan1
+{
+	height: 580px;
+}
+
+.text-slogan1
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+.text-slogan2
+{
+	
+	text-align: center;
+	font-size: 20px;
+}
+
+#form-slogan
+{
+	margin-left: 100px;
+}
+
+#form-slogan button
+{
+	margin-top: 10px;
+	
+	margin-right: 80px;
+}
+
+#prestations
+{
+	margin-top: -10px;
+	
+}
+
+.prestations1
+{
+	margin-left: 100px;
+}
+
+.prestations2
+{
+	margin-left: 100px;
+	font-size: 20px;
+}
+
+.cadre-prestations
+{
+	width: 300px;
+	background-color: silver;
+	margin-left: 75px;
+	margin-right: -40px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.cadre-img-prestations img
+{
+	width: 300px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.cadre-text-prestations h1
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+.cadre-text-prestations p
+{
+	text-align: center;
+	font-size: 20px;
+}
+
+#destinatons
+{
+	margin-top: 20px;
+}

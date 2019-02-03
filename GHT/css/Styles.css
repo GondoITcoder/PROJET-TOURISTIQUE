@@ -1,0 +1,30 @@
+nav #menu ul li a
+{
+	font-weight: bold;
+	color: #02b8dd;
+	font-size: 18px;
+}
+
+.slider
+{
+	display: inline-block;
+	padding-top: 20px;
+	margin-left: 50px;
+}
+
+.slide
+{
+	background-color: silver;
+	border-radius: 10px;
+}
+
+#destinations h1
+{
+	margin-left: 70px;
+}
+
+#destinations p
+{
+	margin-left: 70px;
+	font-size: 20px;
+}
